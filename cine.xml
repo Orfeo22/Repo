@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+<channels>
+    <channels_info>
+      <title>[COLOR yellow]Orfeo 22[/COLOR]</title>
+      <thumbnail>https://pbs.twimg.com/profile_images/947920615872147456/sMjKeHiW_400x400.jpg</thumbnail>
+      <fanart>http://tadalafilforsale.net/data/media/29/54933516.jpg</fanart>
+      <date>01.10.2018</date>
+      <credits>Orfeo 22</credits>
+    </channels_info>
+</channels>
+
+    <channel>
+      <name>[COLOR yellow]PELICULAS LISTADOS[/COLOR]</name>
+      <thumbnail>https://pbs.twimg.com/profile_images/947920615872147456/sMjKeHiW_400x400.jpg</thumbnail>
+      <fanart>http://tadalafilforsale.net/data/media/29/54933516.jpg</fanart>
+    </channel>
+</channels>
+
+<channels>
+   <channel>
+      <name>[COLOR lime]Lista 1[/COLOR]</name>
+      <thumbnail>https://files.informabtl.com/uploads/2015/06/cine.jpg</thumbnail>
+      <fanart>http://tadalafilforsale.net/data/media/29/54933516.jpg</fanart>
+      <externallink>https://raw.githubusercontent.com/Orfeo22/Repo/master/peliculas.xml</externallink>
+   </channel>
+</channes>
+
+<channels>
+   <channel>
+      <name>[COLOR lime]Lista 2[/COLOR]</name>
+      <thumbnail>https://files.informabtl.com/uploads/2015/06/cine.jpg</thumbnail>
+      <fanart>http://tadalafilforsale.net/data/media/29/54933516.jpg</fanart>
+      <externallink>https://raw.githubusercontent.com/Orfeo22/Repo/master/peliculas1.xml</externallink>
+   </channel>
+</channes>
+
+<channels>
+   <channel>
+      <name>[COLOR lime]Lista 3[/COLOR]</name>
+      <thumbnail>https://files.informabtl.com/uploads/2015/06/cine.jpg</thumbnail>
+      <fanart>http://tadalafilforsale.net/data/media/29/54933516.jpg</fanart>
+      <externallink>https://raw.githubusercontent.com/Orfeo22/Repo/master/peliculas2.xml</externallink>
+   </channel>
+</channes>
+
+<channels>
+   <channel>
+      <name>[COLOR lime]Lista 4[/COLOR]</name>
+      <thumbnail>https://files.informabtl.com/uploads/2015/06/cine.jpg</thumbnail>
+      <fanart>http://tadalafilforsale.net/data/media/29/54933516.jpg</fanart>
+      <externallink>https://raw.githubusercontent.com/Orfeo22/Repo/master/peliculas3.xml</externallink>
+   </channel>
+</channes>
+
+<channels>
+   <channel>
+      <name>[COLOR lime]Lista 5[/COLOR]</name>
+      <thumbnail>https://files.informabtl.com/uploads/2015/06/cine.jpg</thumbnail>
+      <fanart>http://tadalafilforsale.net/data/media/29/54933516.jpg</fanart>
+      <externallink>https://raw.githubusercontent.com/Orfeo22/Repo/master/peliculas4.xml</externallink>
+   </channel>
+</channes>
+
+<channels>
+   <channel>
+      <name>[COLOR lime]Lista 6[/COLOR]</name>
+      <thumbnail>https://files.informabtl.com/uploads/2015/06/cine.jpg</thumbnail>
+      <fanart>http://tadalafilforsale.net/data/media/29/54933516.jpg</fanart>
+      <externallink>https://raw.githubusercontent.com/Orfeo22/Repo/master/peliculas5.xml</externallink>
+   </channel>
+</channes>
