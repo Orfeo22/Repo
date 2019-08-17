@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+<items>
 <item>	
 <title>[COLOR yellow]TITULO[/COLOR]</title>
 <thumbnail></thumbnail>
@@ -156,7 +157,7 @@
 
 <item>
 <title>[COLOR=lime]Que Je T'aime[/COLOR][COLOR=yellow] - Johnny Hallyday[/COLOR]</title>
-<urlsolve>https://www.youtube.com/watch?v=7LgMsR-jI1k&list=RDD3w-UTen7Co&index=23</urlsolve>
+<urlsolve>https://www.youtube.com/watch?v=oOrdANUWtHI</urlsolve>
 <thumbnail></thumbnail>
 <fanart>https://photos.google.com/photo/AF1QipPbq7NW3S9Lh59zEcxpbeRwqZ-kUC4A-j_5eEnj</fanart>
 </item>	
@@ -216,3 +217,4 @@
 <thumbnail></thumbnail>
 <fanart>https://photos.google.com/photo/AF1QipPbq7NW3S9Lh59zEcxpbeRwqZ-kUC4A-j_5eEnj</fanart>
 </item>
+</items>  

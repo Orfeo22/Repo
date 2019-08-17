@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+<items>
 <item>	
 <title>[COLOR=yellow]DIBUJITOS ANIMADOS[/COLOR]</title>
 <thumbnail></thumbnail>
@@ -89,11 +90,12 @@
 <urlsolve>https://www.youtube.com/watch?v=hty9qwQfNDE</urlsolve>
 <thumbnail></thumbnail>
 <fanart>http://anne-crea.com/annecrea/11198-fantasy-desktop-wallpaper-hd.jpg</fanart>
-<item>
+</item>
 
 <item>
 <title>[COLOR=lime]Jorge el Curioso[/COLOR]</title>
 <urlsolve>https://www.youtube.com/watch?v=RUgNU487uGE</urlsolve>
 <thumbnail></thumbnail>
 <fanart>http://anne-crea.com/annecrea/11198-fantasy-desktop-wallpaper-hd.jpg</fanart>
-<item>
+</item>
+</items>  
