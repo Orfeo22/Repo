@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+<items>
 <item>	
 <title>[COLOR yellow]UTILIDADES[/COLOR]</title>
 <thumbnail></thumbnail>
@@ -9,7 +10,7 @@
 
 <item>
 <title>[COLOR=lime]Como construir un Trailer 1º[/COLOR]</title>
-<urlsolve>https://www.youtube.com/watch?v=bHF-qr0Z5AA</urlsolve>
+<urlsolve></urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -89,11 +90,12 @@
 <urlsolve></urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<item>
+</item>
 
 <item>
 <title>[COLOR=lime][/COLOR]</title>
 <urlsolve></urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<item>
+</item>
+</items>  

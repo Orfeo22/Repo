@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+<items>
 <item>	
 <title>[COLOR=yellow]MEJORES SERIES[/COLOR]</title>
 <thumbnail></thumbnail>
@@ -89,11 +90,12 @@
 <urlsolve>https://www.youtube.com/watch?v=ucqPvxGWv50</urlsolve>
 <thumbnail></thumbnail>
 <fanart>http://anne-crea.com/annecrea/11198-fantasy-desktop-wallpaper-hd.jpg</fanart>
-<item>
+</item>
 
 <item>
 <title>[COLOR=lime]Los intocables[/COLOR]</title>
 <urlsolve>https://www.youtube.com/watch?v=fX5BmBEhLHw</urlsolve>
 <thumbnail></thumbnail>
 <fanart>http://anne-crea.com/annecrea/11198-fantasy-desktop-wallpaper-hd.jpg</fanart>
-<item>
+</item>
+</items>  
