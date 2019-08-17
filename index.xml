@@ -1,109 +1,111 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
 <channels>
-    <channels_info>
-      <title>[COLOR yellow]Orfeo 22[/COLOR]</title>
-      <thumbnail>https://pbs.twimg.com/profile_images/947920615872147456/sMjKeHiW_400x400.jpg</thumbnail>
-      <fanart>http://tadalafilforsale.net/data/media/29/54933516.jpg</fanart>
-      <date>01.10.2018</date>
-      <credits>Orfeo 22</credits>
-    </channels_info>
+
+  <channels_info>
+    <title>[COLOR yellow]Orfeo 22[/COLOR]</title>
+    <thumbnail>https://pbs.twimg.com/profile_images/947920615872147456/sMjKeHiW_400x400.jpg</thumbnail>
+    <fanart>http://tadalafilforsale.net/data/media/29/54933516.jpg</fanart>
+    <date>01.10.2018</date>
+    <credits>Orfeo 22</credits>
+  </channels_info>
 
 
-   <channel>
-      <name>[COLOR yellow]MENU[/COLOR]</name>
-      <thumbnail>https://pbs.twimg.com/profile_images/947920615872147456/sMjKeHiW_400x400.jpg</thumbnail>
-      <fanart>http://tadalafilforsale.net/data/media/29/54933516.jpg</fanart>
-    </channel>
+  <channel>
+    <name>[COLOR yellow]MENU[/COLOR]</name>
+    <thumbnail>https://pbs.twimg.com/profile_images/947920615872147456/sMjKeHiW_400x400.jpg</thumbnail>
+    <fanart>http://tadalafilforsale.net/data/media/29/54933516.jpg</fanart>
+  </channel>
 
-   <channel>
-      <name>[COLOR lime]Peliculas[/COLOR]</name>
-      <thumbnail>https://files.informabtl.com/uploads/2015/06/cine.jpg</thumbnail>
-      <fanart>http://tadalafilforsale.net/data/media/29/54933516.jpg</fanart>
-      <externallink>https://raw.githubusercontent.com/Orfeo22/Repo/master/cine.xml</externallink>
-   </channel>
+ <channel>
+   <name>[COLOR lime]Peliculas[/COLOR]</name>
+   <thumbnail>https://files.informabtl.com/uploads/2015/06/cine.jpg</thumbnail>
+   <fanart>http://tadalafilforsale.net/data/media/29/54933516.jpg</fanart>
+   <externallink>https://raw.githubusercontent.com/Orfeo22/Repo/master/cine.xml</externallink>
+ </channel>
 
-   <channel>
-      <name>[COLOR lime]Televisión[/COLOR]</name>
-      <thumbnail>https://image.freepik.com/fotos-gratis/antiga-tv_2794211.jpg</thumbnail>
-      <fanart>http://tadalafilforsale.net/data/media/29/54933516.jpg</fanart>
-      <externallink>https://raw.githubusercontent.com/Orfeo22/Repo/master/canales.xml</externallink>
-   </channel>
+ <channel>
+   <name>[COLOR lime]Televisión[/COLOR]</name>
+   <thumbnail>https://image.freepik.com/fotos-gratis/antiga-tv_2794211.jpg</thumbnail>
+   <fanart>http://tadalafilforsale.net/data/media/29/54933516.jpg</fanart>
+   <externallink>https://raw.githubusercontent.com/Orfeo22/Repo/master/canales.xml</externallink>
+ </channel>
 
-   <channel>
-      <name>[COLOR lime]Infantiles[/COLOR]</name>
-      <thumbnail>https://i.pinimg.com/originals/fe/9a/80/fe9a8043aa96496278d8c511815b3a72.png</thumbnail>
-      <fanart>http://tadalafilforsale.net/data/media/29/54933516.jpg</fanart>
-      <externallink>https://raw.githubusercontent.com/Orfeo22/Repo/master/infantiles.xml</externallink>
-   </channel>
+ <channel>
+   <name>[COLOR lime]Infantiles[/COLOR]</name>
+   <thumbnail>https://i.pinimg.com/originals/fe/9a/80/fe9a8043aa96496278d8c511815b3a72.png</thumbnail>
+   <fanart>http://tadalafilforsale.net/data/media/29/54933516.jpg</fanart>
+   <externallink>https://raw.githubusercontent.com/Orfeo22/Repo/master/infantiles.xml</externallink>
+ </channel>
 
-   <channel>
-      <name>[COLOR lime]Documentales[/COLOR]</name>
-      <thumbnail>http://canarias-semanal.org/upload/img/periodico/img_46083.jpg</thumbnail>
-      <fanart>http://tadalafilforsale.net/data/media/29/54933516.jpg</fanart>
-      <externallink>https://raw.githubusercontent.com/Orfeo22/Repo/master/documentales.xml</externallink>
-   </channel>
+ <channel>
+   <name>[COLOR lime]Documentales[/COLOR]</name>
+   <thumbnail>http://canarias-semanal.org/upload/img/periodico/img_46083.jpg</thumbnail>
+   <fanart>http://tadalafilforsale.net/data/media/29/54933516.jpg</fanart>
+   <externallink>https://raw.githubusercontent.com/Orfeo22/Repo/master/documentales.xml</externallink>
+ </channel>
 
-   <channel>
-      <name>[COLOR lime]Ciencia[/COLOR]</name>
-      <thumbnail>https://www.lifeder.com/wp-content/uploads/2016/12/ramas-de-la-ciencia.png</thumbnail>
-      <fanart>http://tadalafilforsale.net/data/media/29/54933516.jpg</fanart>
-      <externallink>https://raw.githubusercontent.com/Orfeo22/Repo/master/ciencias.xml</externallink>
-   </channel>
+ <channel>
+   <name>[COLOR lime]Ciencia[/COLOR]</name>
+   <thumbnail>https://www.lifeder.com/wp-content/uploads/2016/12/ramas-de-la-ciencia.png</thumbnail>
+   <fanart>http://tadalafilforsale.net/data/media/29/54933516.jpg</fanart>
+   <externallink>https://raw.githubusercontent.com/Orfeo22/Repo/master/ciencias.xml</externallink>
+ </channel>
 
-   <channel>
-      <name>[COLOR lime]Videos Musicales[/COLOR]</name>
-      <thumbnail>https://images-na.ssl-images-amazon.com/images/I/91EpSomM5kL._SX355_.jpg</thumbnail>
-      <fanart>http://tadalafilforsale.net/data/media/29/54933516.jpg</fanart>
-      <externallink>https://raw.githubusercontent.com/Orfeo22/Repo/master/musicales.xml</externallink>
-   </channel>
+ <channel>
+   <name>[COLOR lime]Videos Musicales[/COLOR]</name>
+   <thumbnail>https://images-na.ssl-images-amazon.com/images/I/91EpSomM5kL._SX355_.jpg</thumbnail>
+   <fanart>http://tadalafilforsale.net/data/media/29/54933516.jpg</fanart>
+   <externallink>https://raw.githubusercontent.com/Orfeo22/Repo/master/musicales.xml</externallink>
+ </channel>
 
-   <channel>
-      <name>[COLOR lime]Filosofia[/COLOR]</name>
-      <thumbnail>https://hiramscornerpub.files.wordpress.com/2011/05/deportes.jpg</thumbnail>
-      <fanart>http://tadalafilforsale.net/data/media/29/54933516.jpg</fanart>
-      <externallink>https://raw.githubusercontent.com/Orfeo22/Repo/master/filosofia.xml</externallink>
-   </channel>
+ <channel>
+   <name>[COLOR lime]Filosofia[/COLOR]</name>
+   <thumbnail>https://hiramscornerpub.files.wordpress.com/2011/05/deportes.jpg</thumbnail>
+   <fanart>http://tadalafilforsale.net/data/media/29/54933516.jpg</fanart>
+   <externallink>https://raw.githubusercontent.com/Orfeo22/Repo/master/filosofia.xml</externallink>
+ </channel>
 
-   <channel>
-      <name>[COLOR lime]Deportes[/COLOR]</name>
-      <thumbnail>https://hiramscornerpub.files.wordpress.com/2011/05/deportes.jpg</thumbnail>
-      <fanart>http://tadalafilforsale.net/data/media/29/54933516.jpg</fanart>
-      <externallink>https://raw.githubusercontent.com/Orfeo22/Repo/master/deportes.xml</externallink>
-   </channel>
+ <channel>
+   <name>[COLOR lime]Deportes[/COLOR]</name>
+   <thumbnail>https://hiramscornerpub.files.wordpress.com/2011/05/deportes.jpg</thumbnail>
+   <fanart>http://tadalafilforsale.net/data/media/29/54933516.jpg</fanart>
+   <externallink>https://raw.githubusercontent.com/Orfeo22/Repo/master/deportes.xml</externallink>
+ </channel>
 
-   <channel>
-      <name>[COLOR lime]Series[/COLOR]</name>
-      <thumbnail>https://a.wattpad.com/cover/2023354-352-k82401.jpg</thumbnail>
-      <fanart>http://tadalafilforsale.net/data/media/29/54933516.jpg</fanart>
-      <externallink>https://raw.githubusercontent.com/Orfeo22/Repo/master/series.xml</externallink>
-   </channel>
+ <channel>
+   <name>[COLOR lime]Series[/COLOR]</name>
+   <thumbnail>https://a.wattpad.com/cover/2023354-352-k82401.jpg</thumbnail>
+   <fanart>http://tadalafilforsale.net/data/media/29/54933516.jpg</fanart>
+   <externallink>https://raw.githubusercontent.com/Orfeo22/Repo/master/series.xml</externallink>
+ </channel>
 
-   <channel>
-      <name>[COLOR lime]Decoración[/COLOR]</name>
-      <thumbnail>https://i.pinimg.com/originals/3b/e6/ae/3be6aebed5c3973256408aabb50810d1.jpg</thumbnail>
-      <fanart>http://tadalafilforsale.net/data/media/29/54933516.jpg</fanart>
-      <externallink>https://raw.githubusercontent.com/Orfeo22/Repo/master/decoracion.xml</externallink>
-   </channel>
+ <channel>
+   <name>[COLOR lime]Decoración[/COLOR]</name>
+   <thumbnail>https://i.pinimg.com/originals/3b/e6/ae/3be6aebed5c3973256408aabb50810d1.jpg</thumbnail>
+   <fanart>http://tadalafilforsale.net/data/media/29/54933516.jpg</fanart>
+   <externallink>https://raw.githubusercontent.com/Orfeo22/Repo/master/decoracion.xml</externallink>
+ </channel>
 
-   <channel>
-      <name>[COLOR lime]Herramientas Caseras[/COLOR]</name>
-      <thumbnail></thumbnail>
-      <fanart>http://tadalafilforsale.net/data/media/29/54933516.jpg</fanart>
-      <externallink>https://raw.githubusercontent.com/Orfeo22/Repo/master/herramientas.xml</externallink>
-   </channel>
+ <channel>
+   <name>[COLOR lime]Herramientas Caseras[/COLOR]</name>
+   <thumbnail></thumbnail>
+   <fanart>http://tadalafilforsale.net/data/media/29/54933516.jpg</fanart>
+   <externallink>https://raw.githubusercontent.com/Orfeo22/Repo/master/herramientas.xml</externallink>
+ </channel>
 
-   <channel>
-      <name>[COLOR lime]Utilidades[/COLOR]</name>
-      <thumbnail></thumbnail>
-      <fanart>http://tadalafilforsale.net/data/media/29/54933516.jpg</fanart>
-      <externallink>https://raw.githubusercontent.com/Orfeo22/Repo/master/utiles.xml</externallink>
-   </channel>
+ <channel>
+   <name>[COLOR lime]Utilidades[/COLOR]</name>
+   <thumbnail></thumbnail>
+   <fanart>http://tadalafilforsale.net/data/media/29/54933516.jpg</fanart>
+   <externallink>https://raw.githubusercontent.com/Orfeo22/Repo/master/utiles.xml</externallink>
+ </channel>
 
-   <channel>
-      <name>[COLOR lime][/COLOR]</name>
-      <thumbnail></thumbnail>
-      <fanart>http://tadalafilforsale.net/data/media/29/54933516.jpg</fanart>
-      <externallink></externallink>
-   </channel>
+ <channel>
+   <name>[COLOR lime][/COLOR]</name>
+   <thumbnail></thumbnail>
+   <fanart>http://tadalafilforsale.net/data/media/29/54933516.jpg</fanart>
+   <externallink></externallink>
+ </channel>
+
 </channels>
