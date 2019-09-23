@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
- 
 <channels>
 
   <channels_info>
@@ -9,7 +8,6 @@
     <date>01.10.2018</date>
     <credits>Orfeo 22</credits>
   </channels_info>
-
 
   <channel>
     <name>[COLOR yellow]MENU[/COLOR]</name>
