@@ -50,4 +50,18 @@
   <externallink>https://raw.githubusercontent.com/Orfeo22/Repo/master/peliculas6.xml</externallink>
 </channel>
 
+<channel>
+  <name>[COLOR lime]Lista 7[/COLOR]</name>
+  <thumbnail>https://files.informabtl.com/uploads/2015/06/cine.jpg</thumbnail>
+  <fanart>http://tadalafilforsale.net/data/media/29/54933516.jpg</fanart>
+  <externallink>https://raw.githubusercontent.com/Orfeo22/Repo/master/peliculas7.xml</externallink>
+</channel>
+
+<channel>
+  <name>[COLOR lime]Lista 8[/COLOR]</name>
+  <thumbnail>https://files.informabtl.com/uploads/2015/06/cine.jpg</thumbnail>
+  <fanart>http://tadalafilforsale.net/data/media/29/54933516.jpg</fanart>
+  <externallink>https://raw.githubusercontent.com/Orfeo22/Repo/master/peliculas8.xml</externallink>
+</channel>
+
 </channels>
